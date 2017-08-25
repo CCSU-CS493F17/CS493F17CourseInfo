@@ -76,8 +76,9 @@ _Central Connecticut State University_
 | **Percentage of grade:**            |         |
 |-------------------------------------|---------|
 | **Assignments**                     | **30%** |
-| **Exams**                           | **40%** |
+| **Midterm**                         | **20%** |
 | **Final project**                   | **30%** |
+| **Final exam**                      | **20%** |
 
 Letter grade will be calculated according to the following table:
 
