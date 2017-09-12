@@ -137,24 +137,23 @@ http://www.ccsu.edu/academicintegrity/
 
 **Week 1 week of August 28**
 
+-   *Reading: Chapter 1 Secure Software Design*
 -   Introduction and background to secure software
 
 **Week 2 week of September 4**
 
 -   *Labor day - No class Monday September 4th*
-
+-   *Reading: Chapter 2 Secure Software Design*
 -   Current and emerging threats
-
 -   Assignment 0 - Headshot and GitHub id
 
 **Week 3 week of September 11**
-
+-   *Reading: Chapter 3 & 4 Secure Software Design*
 -   The network environment
-
 -   The OS environment
 
 **Week 4 week of September 18**
-
+-   *Reading: Chapter 4 & 5 Secure Software Design*
 -   The database environment
 
 -   Programming languages
