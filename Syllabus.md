@@ -161,7 +161,7 @@ http://www.ccsu.edu/academicintegrity/
 -   *Assignment 1 - Systemic Threats*
 
 **Week 5 week of September 25**
-
+-   *Reading: Chapter 5 & 6 Secure Software Design*
 -   Security requirements planning
 
 -   Vulnerability mapping
