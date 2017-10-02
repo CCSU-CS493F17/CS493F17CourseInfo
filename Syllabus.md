@@ -164,15 +164,14 @@ http://www.ccsu.edu/academicintegrity/
 -   *Reading: Chapter 5 & 6 Secure Software Design*
 -   Security requirements planning
 
+**Week 6 week of October 2**
+-   *Reading: Chapter 7, 8, & 9 Secure Software Design*
+-   Development and implementation
 -   Vulnerability mapping
 
-**Week 6 week of October 2**
-
--   Development and implementation
+**Week 7 week of October 9**
 
 -   Application review and testing
-
-**Week 7 week of October 9**
 
 -   Incorporating SSD with the SDLC
 
