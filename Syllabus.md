@@ -183,9 +183,10 @@ http://www.ccsu.edu/academicintegrity/
 
 -   Culture of security
 
--   **Tentative Midterm Wednesday, October 18th**
+-   **Midterm Wednesday, October 18th**
 
 **Week 9 week of October 23**
+-   *Reading: Chapter 10 & 11 Secure Software Design*
 
 -   Web application threats
 
