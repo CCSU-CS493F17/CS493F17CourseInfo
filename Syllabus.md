@@ -194,11 +194,18 @@ http://www.ccsu.edu/academicintegrity/
 
 -   Secure data management
 
--   *Assignment 3 Data security*
-
 **Week 11 week of November 6**
 
--   Architectural approaches to building secure software
+-   Intrusion Detection Systems
+
+    ***Assigned Readings:***
+
+    *A link to these papers can be found on Blackboard*
+    - Modi, Chirag, et al. "A survey of intrusion detection techniques in cloud." Journal of Network and Computer Applications 36.1 (2013): 42-57.
+
+    - Butun, Ismail, Salvatore D. Morgera, and Ravi Sankar. "A survey of intrusion detection systems in wireless sensor networks." IEEE communications surveys & tutorials 16.1 (2014): 266-282.
+
+-   *Assignment 3 Intrusion Detection Sytems*
 
 **Week 12 week of November 13**
 
